@@ -1,0 +1,4 @@
+1. tailwindcss + auto format classes + auto complete classes
+2. prettier
+3. aliases for imports
+4. import sorter
