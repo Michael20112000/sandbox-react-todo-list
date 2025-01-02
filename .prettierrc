@@ -4,11 +4,10 @@
   "jsxSingleQuote": true,
   "trailingComma": "all",
   "plugins": [
+    "@trivago/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss"
   ],
-  "importOrder": [
-    "^@src/(.*)$"
-  ],
+  "importOrder": ["^@src/(.*)$"],
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true
 }
