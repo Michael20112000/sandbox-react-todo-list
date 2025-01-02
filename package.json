@@ -5,8 +5,8 @@
   "type": "module",
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
-      "eslint --fix",
-      "prettier --write"
+      "prettier --write",
+      "eslint --fix"
     ]
   },
   "scripts": {
@@ -15,7 +15,7 @@
     "format": "prettier . --write",
     "lint": "eslint . --fix --max-warnings=0",
     "typecheck": "tsc --noEmit",
-    "check-all": "npm run lint && npm run format && npm run typecheck",
+    "check-and-fix-all": "npm run lint && npm run format && npm run typecheck",
     "preview": "vite preview",
     "prepare": "husky"
   },
