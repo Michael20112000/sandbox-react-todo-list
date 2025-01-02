@@ -1,6 +1,6 @@
 done 0. create repo
 done 1. tailwindcss + prettier auto format classes + auto complete classes + clsx
 done 2. prettier import sorter
-3. aliases for imports
-done 4. husky
+done 3. husky
+4. aliases for imports
 5. implement FSD
