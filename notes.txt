@@ -7,3 +7,5 @@ done 3. husky
 5. implement FSD on ready app
 done 6. add routing
 |||
+
+...docker
