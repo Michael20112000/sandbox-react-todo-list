@@ -4,5 +4,5 @@ done 2. prettier import sorter
 done 3. husky
 |||
 4. aliases for imports
-5. implement FSD
+5. implement FSD on ready app
 |||
