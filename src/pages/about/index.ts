@@ -1,1 +1,1 @@
-export { AboutPage } from './ui/AboutPage.tsx'
+export { AboutPage } from './ui/AboutPage'

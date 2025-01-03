@@ -5,5 +5,5 @@ done 3. husky
 |||
 4. aliases for imports
 5. implement FSD on ready app
-6. add routing
+done 6. add routing
 |||
