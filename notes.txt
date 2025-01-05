@@ -2,10 +2,10 @@ done 0. create repo
 done 1. tailwindcss + prettier auto format classes + auto complete classes + clsx
 done 2. prettier import sorter
 done 3. husky
-|||
 4. aliases for imports
 5. implement FSD on ready app
 done 6. add routing
-|||
-
-...docker
+done 7. add storybook
+8. add all types of test
+9. add docker
+10. implement rules from readme
