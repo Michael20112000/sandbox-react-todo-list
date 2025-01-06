@@ -7,5 +7,5 @@ done 3. husky
 done 6. add routing
 done 7. add storybook
 8. add all types of test
-9. add docker
+done 9. add docker
 10. implement rules from readme
