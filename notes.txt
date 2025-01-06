@@ -3,11 +3,13 @@ done 1. tailwindcss + prettier auto format classes + auto complete classes + cls
 done 2. prettier import sorter
 done 3. husky
 done 4. aliases for imports
-4.5 auto rewrite paths if it can be rewritten by alias
-5. implement FSD on ready app
-done 6. add routing
-done 7. add storybook
-8. add all types of test
+---- 5 auto rewrite import paths if it can be rewritten by alias
+done 6. implement FSD
+done 7. add routing
+done 8. add storybook
 done 9. add docker
-done 9.5 sync code on host and container
-done 10. implement rules from readme
+done 10 host and docker container code synchronization
+done 11. implement rules from readme.md
+done 12. delete stories folder from src
+---- 13. write stories for components
+---- 14. add all types of test
