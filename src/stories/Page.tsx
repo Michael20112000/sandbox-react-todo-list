@@ -1,6 +1,7 @@
+import { FC, useState } from 'react'
+
 import { Header } from './Header'
 import './page.css'
-import { FC, useState } from 'react'
 
 type User = {
   name: string
