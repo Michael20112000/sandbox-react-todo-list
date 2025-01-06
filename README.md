@@ -1,3 +1,6 @@
+docker build -t sandbox-react-todo-list:dev .
+docker run --rm -it -p 5173:5173 -p 6006:6006 -v /.../sandbox-react-todo-list:/app -v /app/node_modules sandbox-react-todo-list:dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

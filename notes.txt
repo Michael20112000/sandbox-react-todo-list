@@ -9,5 +9,5 @@ done 6. add routing
 done 7. add storybook
 8. add all types of test
 done 9. add docker
-9.5 sync code on host and container
-10. implement rules from readme
+done 9.5 sync code on host and container
+done 10. implement rules from readme
